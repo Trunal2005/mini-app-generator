@@ -1,0 +1,17 @@
+{
+  "name": "AppForge",
+  "short_name": "AppForge",
+  "description": "Turn JSON into working apps instantly",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1326",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

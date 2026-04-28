@@ -1,0 +1,6 @@
+name,email,department,salary,joinDate,active
+John Doe,john@test.com,Engineering,50000,2024-01-15,true
+Jane Smith,jane@test.com,Marketing,45000,2024-02-20,true
+Bob Wilson,bob@test.com,Sales,48000,2024-03-10,false
+Alice Brown,alice@test.com,HR,42000,2024-01-05,true
+Charlie Davis,charlie@test.com,Engineering,55000,2024-04-01,true
