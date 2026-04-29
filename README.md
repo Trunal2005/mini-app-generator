@@ -2,6 +2,8 @@
 
 AppForge is a JSON-driven mini app generator built with Next.js. Define an app schema once, then AppForge renders authenticated workspaces, generated forms, data tables, dashboards, CSV import flows, and dynamic API endpoints around that configuration.
 
+**Languages Used:** TypeScript, TSX, CSS, Prisma Schema, JSON, and JavaScript.
+
 The project ships with a seeded Employee Directory example so the runtime experience can be tested immediately after setup.
 
 ![AppForge landing page](public/screenshots/appforge-landing.png)
